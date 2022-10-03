@@ -2,8 +2,8 @@
 
 - 👋 Hi, I’m Facundo
 - 👀 I’m interested in mostly data science and back-end programming
-- 🌱 I’m currently learning python (Django) 
-- 📊 Currently working as a Database Administrator at Kyndryl
+- 🌱 I’m currently learning ruby (chef) 
+- 📊 Currently working as a DevOps at Kyndryl
 - 📫 [Linkedin](https://www.linkedin.com/in/facundoma/) / [Email](mailto:facu_martinez98@hotmail.com) 
 - 😇 I like to keep things simple
 
